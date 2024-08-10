@@ -1,1 +1,1 @@
-Primul commit
+Primul test al aplicatiei
